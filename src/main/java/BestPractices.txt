@@ -1,0 +1,15 @@
+
+
+
+# Dynamic Programming
+5 simples steps for solving dynamic programming problems
+ https://www.youtube.com/watch?v=aPQY__2H3tE
+
+ 1)Visualize Examples (using directed graphs)
+ 2)FInd an appropriate subproblem
+ 3)Find relationship between subproblems
+ 4) Generalize the relationship
+ 5) Implement by solving the subproblems in order
+
+
+Finding Subproblems:
